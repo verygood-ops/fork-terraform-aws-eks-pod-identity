@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file.
 
+## [2.9.0](https://github.com/terraform-aws-modules/terraform-aws-eks-pod-identity/compare/v2.8.2...v2.9.0) (2026-08-28)
+
+### Features
+
+* Add support for AWS Global Accelerator Controller ([#68](https://github.com/terraform-aws-modules/terraform-aws-eks-pod-identity/issues/68)) ([7cb0bd4](https://github.com/terraform-aws-modules/terraform-aws-eks-pod-identity/commit/7cb0bd4b660d82f27f2208db084c49103410dea6))
+
+### Bug Fixes
+
+* Update GitHub Actions and pre-commit hook versions ([#67](https://github.com/terraform-aws-modules/terraform-aws-eks-pod-identity/issues/67)) ([a315727](https://github.com/terraform-aws-modules/terraform-aws-eks-pod-identity/commit/a3157274ce9385717d3c69d4b789caf075fe752e))
+
 ## [2.8.2](https://github.com/terraform-aws-modules/terraform-aws-eks-pod-identity/compare/v2.8.1...v2.8.2) (2026-07-28)
 
 ### Bug Fixes
